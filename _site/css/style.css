@@ -1,0 +1,23 @@
+/* Custom CSS overrides */
+
+@import url(http://fonts.googleapis.com/css?family=Alegreya:700);
+
+h1, h2, h3 {
+font-family: 'Alegreya', serif;
+}
+
+.welcome {
+background: url(/img/HomePage_Hilltop_2015.jpg) no-repeat center center; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+height: 800px;
+width: 100%;
+}
+
+
+.overlay-white {
+background-color: rgba(255,255,255,0.9);
+height: 100%;
+}

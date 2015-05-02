@@ -1,0 +1,15 @@
+permalink: /:year/:month/:day/:title 
+
+highlighter: pygments
+
+title : Hilltop Carvings
+tagline: 
+author :
+  name : George Zaremski
+  email : george@hilltopcarvings.com
+
+production_url : http://hilltopcarvings.com
+
+baseurl : http://hilltopcarvings.com
+
+timezone : America/New_York
